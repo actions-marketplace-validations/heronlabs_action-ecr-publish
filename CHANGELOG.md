@@ -1,3 +1,9 @@
+## v6.0.6 (2026-10-23)
+
+### Miscellaneous Chores
+
+* other: rename references to heronlabs/action-ecr (#32) (a2e3e8c274d38195dbb14e1b267e9897eaa12283)
+
 ## v6.0.5 (2026-09-17)
 
 ### Miscellaneous Chores
